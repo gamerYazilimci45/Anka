@@ -51,4 +51,4 @@ Now, you can download your files with this types:
  
 
 > [!WARNING]
-> This project is using "GNU GENERAL PUBLIC LICENSE"!
+> This project is using "GNU GENERAL PUBLIC LICENSE V3"!
